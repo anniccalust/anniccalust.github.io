@@ -1,6 +1,3 @@
-My first Page... Yayyyyyyyyyyy...........
+A place for writing about random technical things.
 
-[anniccalust](anniccalust.github.io)
-
-anniccalust.github.io
-
+[http://narula.github.io](http://narula.github.io)
